@@ -1,0 +1,45 @@
+title: KinGUII
+tagline: "Kinetic Evaluations with a Graphical User Interface"
+theme: "0c"
+reverse: True
+description: >
+  KinGUII makes it easy to create, customize and evaluate kinetic models.
+
+url: "http://KinGUII.github.io/"
+author:
+  name: "Zhenglei Gao"
+  github: "zhenglei-gao"
+
+sidebar:
+  - {item: NEWS, href: '/blog', icon: 'bullhorn'}
+  - {item: Manual, href: '/publications', icon: 'hand-o-right'}
+  - {item: Example Projects, href: '/projects', icon: 'puzzle-piece'}
+  - {item: Release History, href: '/software', icon: 'info-circle'}
+  - {item: Development, href: '/research', icon: 'cogs'}
+
+
+projects:
+  - {title: "Visualizing Bike Sharing Networks", 
+     url: "http://slidify.github.io/dcmeetup/demo/bikeshare",
+     thumbnail: 'citibikes.png'
+    }
+  - {title: "Animated Choropleths",
+     url: "http://rmaps.github.io/blog/posts/animated-choropleths/index.html",
+     thumbnail: "animated-choropleths.png"
+    }
+  - {title: Visualizing Medal Tally at Sochi,
+  	 url: "http://ramnathv.ocpu.io/sochi/www/",
+  	 thumbnail: "sochi.png"
+  	}
+  - {title: Online Playground for rCharts,
+     url: "http://rcharts.io/playground",
+     thumbnail: "rcharts.png"
+    }
+  - {title: 100 Centuries of Sachin Tendulkar,
+  	 url: 'http://ramnathv.github.io/sachin100s/',
+  	 thumbnail: 'sachin.png'
+    }
+  - {title: Interactive Controls with rCharts,
+     url: 'http://rcharts.io/icontrols',
+     thumbnail: 'icontrols.png'
+    }
