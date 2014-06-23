@@ -9,6 +9,9 @@ description: >
 --- &article2
 
 
+```
+## Error: object 'hook_crop_png' not found
+```
 
 .message [rblocks](http://github.com/ramnathv/rblocks) is an R package that provides a fun and visual tool to explore data structures and control flow in R. It is a port of [ipythonblocks](http://ipythonblocks.org). 
 
