@@ -33,8 +33,7 @@ Major changes in version 2.1 include
 
 ## Credits and History
 
-## Disclaim
-
+## 
 
 
 <style>
