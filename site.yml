@@ -11,11 +11,11 @@ author:
   github: "zhenglei-gao/Test"
 
 sidebar:
-  - {item: NEWS, href: 'Test/blog', icon: 'bullhorn'}
-  - {item: Manual, href: 'Test/publications', icon: 'hand-o-right'}
-  - {item: Example Projects, href: 'Test/projects', icon: 'puzzle-piece'}
-  - {item: About KinGUII, href: 'Test/software', icon: 'info-circle'}
-  - {item: Development, href: 'Test/research', icon: 'cogs'}
+  - {item: NEWS, href: '/blog', icon: 'bullhorn'}
+  - {item: Manual, href: '/publications', icon: 'hand-o-right'}
+  - {item: Example Projects, href: '/projects', icon: 'puzzle-piece'}
+  - {item: About KinGUII, href: '/software', icon: 'info-circle'}
+  - {item: Development, href: '/research', icon: 'cogs'}
 
 
 projects:
