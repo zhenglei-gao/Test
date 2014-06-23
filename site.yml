@@ -5,16 +5,16 @@ reverse: True
 description: >
   KinGUII makes it easy to create, customize and evaluate kinetic models.
 
-url: "http://zhenglei-gao.github.io/Test/"
+url: "http://KinGUII.github.io/"
 author:
   name: "Zhenglei Gao"
-  github: "zhenglei-gao"
+  github: "zhenglei-gao/Test"
 
 sidebar:
   - {item: NEWS, href: '/blog', icon: 'bullhorn'}
   - {item: Manual, href: '/publications', icon: 'hand-o-right'}
   - {item: Example Projects, href: '/projects', icon: 'puzzle-piece'}
-  - {item: Release History, href: '/software', icon: 'info-circle'}
+  - {item: About KinGUII, href: '/software', icon: 'info-circle'}
   - {item: Development, href: '/research', icon: 'cogs'}
 
 

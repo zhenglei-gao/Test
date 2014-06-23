@@ -7,7 +7,7 @@ mode: selfcontained
 # About KinGUII
 
 <div style="float: right;padding-left:15px;">
-  <img src="images/KinGUII.gif" alt="Zhenglei Gao" title="Zhenglei Gao" width="250px"/>
+  <img src="images/KinGUII.gif" alt="KinGUII" title="KinGUII" width="250px"/>
 </div>
 
 .lead KinGUII is a software developed at [BCS](http://www.cropscience.bayer.com/) which makes it easy to create, customize and evaluate kinetic models.

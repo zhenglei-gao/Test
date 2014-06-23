@@ -24,6 +24,7 @@ Copy source (e.g. `SourceDrive:\KinGUIIv2.1`) incl. subfolders to your local dri
 
 The resulting directory structure should look like this :
 
+<img src="../../images/Direct.PNG" width="650px"/>
 
 Dblclick `..\KinGUIIv2.1\GUI\KinGUIIv2.1.exe` to start the GUI.
 <style>
